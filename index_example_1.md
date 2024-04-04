@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andres Moncayo's Resume
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
