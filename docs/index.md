@@ -1,76 +1,126 @@
 ---
-layout: cv
-title: McKay Clark's Resume
+layout: resume
+title: Brigham Young's Resume
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
-# McKay Clark
-Aspiring Software Developer
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+# Roosevelt Moncayo
 
+The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
+::: {#webaddress}
+<a href="datascience@byui.edu">datascience\@byui.edu</a> \|
+<a href="https://byuidatascience.github.io/development.html">Data
+Science Program</a>
+:::
+
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2014-2018`
-__Rocky Mountain High-School__, Meridian, ID
+Brigham Young University - Idaho Rexburg, ID
 
-- High-School Diploma with 3.5 GPA
+Bachelor of Science in Accounting 2023 - 2024
 
-`Expected 2028`
-__Brigham Young University - Idaho__, Rexburg, ID
+• GPA: 3.6
 
-- Majoring in Software Engineering
+• Area of interest: Auditor.
 
+• Computer Programming (Minor)
 
-## Service and Work History
+• Associate in Business Administration.
 
-`May 2018-September 2018`
-__Car Wash Associate for Epic Shine__, Meridian, ID
+• Relevant course work: Financial Accounting, Programming Building
+Blocks.
 
-- Worked with a team to give top of the line customer service.
-- Preformed janitorial services around the carwash.
-- Instructed people in the proper way to use an automated car wash.
+Related Experience
 
-`2018-2020`
-__Religious Missionary__, Kansas
+## Experience
 
-- Studied rigorously from religious texts daily.
-- Taught lessons on religious topics as a team.
-- Attended trainings to become better missionaries.
+**Melaleuca Inc. Rexburg, ID**
 
-`April 2020-September 2020`
-__Warehouse Associate for Scentsy__, Meridian, ID
+Business Development/Customer Service May 2022 - September 2022
 
-- Tasked with Moving, packing, shipping, and restocking merchandise.
-- Taught to put merchandise together.
+• Provided a world class customer service
 
-`April 2021-November 2021`
-__Security Guard for Amazon__, Meridian, ID
+• Promoted in three months since I was hired by Melaleuca into Business
+Development.
 
-- Trained to identify threats to the facility, de-escalate potentially harmful situations, and observe and report suspicious activities to the proper authorities.
-- Patrolled the building every hour to regulate the environment and discourage mischief.
-- Trained to respond in emergency situations as an escort and administer CPR as needed.
+• Partnering with Marketing Executives to help them reach business
+goals.
 
-`April 2023-June 2023`
-__Gas Station Clerk for Good 2 Go__, Rigby, ID
+New York City, Manhattan
 
-- Completed purchases for merchandise and/or gas.
-- Kept gas station and work area clean and tidy.
-- Preformed simple maintenance on machinery.
+Intertek
 
-`July 2023-Present Day`
-__Tailored Clothing Specialist for Dillards__, Idaho Falls, ID
+Quality Assurance Technician August 2017 – April 2022
 
-- Help customers find what they want and need through asking questions and giving suggestions.
-- Teach customers about the benefits of using a Dillards credit card and gude them through the application process.
-- Measure customers so they are getting the right fit for them in a variety of shirts, slacks, and suits.
+• Supervise around 3 to 4 jobs a day, check and ensure the quality of
+the jobs was well done.
 
+• Successfully managed and worked with a different team every day.
+
+• Promoted two times in the company by learning new skills and getting
+new quality assurance certificates.
+
+Chipotle
+
+Assistant Manager May 2013 - January 2015
+
+• Applied operation innovation principles to lead reduction of head
+count from 14 to 8 employees. Resulting in wage savings of \$6,000
+monthly.
+
+• Constructed improved process for cleaning inspections regionally
+resulted in an overall score from 86/100 to 95/100 in state food
+inspection grade.
+
+• Co-managed and developed 15 new hires to hit service and production
+goals. Resulting in productivity increase to achieve regional sales.
+
+Data Science Lead
+
+## Projects
+
+-   • Started a cosmetic retail business where I participate in
+    decisions such as: investments in new products or hiring new
+    employees.
+
+    • Created a professional spreadsheet in excel for inventory. Where
+    can analyze around 6000 products in a faster and more understandable
+    way.
+
+    • Conducted independent research on cosmetics suppliers to get best
+    brands, variety on products on affordable make up for consumers.
+
+## **leadership/interests/skills/awards**
+
+• Fluency in the Spanish language, including the ability to read, write,
+and speak.
+
+• Trainer/leader of different team groups as a voluntary representative
+of the LDS Church.
+
+• Analyze Data and create charts in Tableau and python.
+
+• Create a data base with SQL and understand R language.
+
+• Developed strong strategic thinking skills through years of playing
+soccer, where I captained the team and created game winning strategies.
+
+• Lead and motivate teams in both soccer and multiplayer games,
+fostering a collaborative and winning mindset.
+
+Service and Work History
+
+`2025-2027` **Math Tutor**, LDSBC
+
+`2023-2025` **Service Missionary**, South Africa
+
+```{=html}
 <!-- ### Footer
 
-Last updated: January 2024 -->
-
-
+Last updated: May 2013 -->
+```
