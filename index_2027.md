@@ -1,88 +1,71 @@
----
-layout: resume
-title: Brigham Young's Resume
----
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
+Roosevelt Moncayo
 
 
-## Education
+::: {#webaddress} datascience@byui.edu | Data Science Program :::
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+Education
+Brigham Young University - Idaho Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+Bachelor of Science in Accounting 2023 - 2024
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+• GPA: 3.6
 
-- 4.0 Major GPA
+• Area of interest: Auditor.
 
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+• Computer Programming (Minor)
 
 
-## Service and Work History
+• Relevant course work: Financial Accounting, Programming Building Blocks.
 
-`2025-2027`
-__Math Tutor__, LDSBC
+Related Experience
 
+Experience
+Melaleuca Inc. Rexburg, ID
 
-`2023-2025`
-__Service Missionary__, South Africa
+Business Development/Customer Service May 2022 - September 2022
 
+• Provided a world class customer service
 
+• Promoted in three months since I was hired by Melaleuca into Business Development.
 
-<!-- ### Footer
+• Partnering with Marketing Executives to help them reach business goals.
 
-Last updated: May 2013 -->
+New York City, Manhattan
 
+Intertek
 
+Quality Assurance Technician August 2017 – April 2022
+
+• Supervise around 3 to 4 jobs a day, check and ensure the quality of the jobs was well done.
+
+• Successfully managed and worked with a different team every day.
+
+• Promoted two times in the company by learning new skills and getting new quality assurance certificates.
+
+Chipotle
+
+Assistant Manager May 2013 - January 2015
+
+• Applied operation innovation principles to lead reduction of head count from 14 to 8 employees. Resulting in wage savings of $6,000 monthly.
+
+• Constructed improved process for cleaning inspections regionally resulted in an overall score from 86/100 to 95/100 in state food inspection grade.
+
+• Co-managed and developed 15 new hires to hit service and production goals. Resulting in productivity increase to achieve regional sales.
+
+Data Science Lead
+
+Projects
+• Started a cosmetic retail business where I participate in decisions such as: investments in new products or hiring new employees.
+
+• Created a professional spreadsheet in excel for inventory. Where can analyze around 6000 products in a faster and more understandable way.
+
+• Conducted independent research on cosmetics suppliers to get best brands, variety on products on affordable make up for consumers.
+
+leadership/interests/skills/awards
+• Fluency in the Spanish language, including the ability to read, write, and speak.
+
+• Trainer/leader of different team groups as a voluntary representative of the LDS Church.
+
+• Analyze Data and create charts in Tableau and python.
+
+• Create a data base with SQL and understand R language.
